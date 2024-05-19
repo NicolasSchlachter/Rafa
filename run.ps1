@@ -1,3 +1,3 @@
-$folderPath = "C:\Users\nicol\OneDrive\Desktop\owo"
+$folderPath = "C:\Users\datcu\Desktop\owo"
 
 New-Item -ItemType Directory -Path $folderPath -Force
